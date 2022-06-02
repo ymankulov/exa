@@ -1,0 +1,27 @@
+#header {
+    width: 100%;
+
+    margin: 0 auto;
+    background: #010049;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+
+}
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.shop__title {
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+
+
+
+
+
